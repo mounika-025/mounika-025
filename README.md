@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @mounika-025
-- 👀 I’m interested in Web development...
-- 🌱 I’m currently learning ReactJs...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello there! Welcome to my GitHub profile!
 
-<!---
-mounika-025/mounika-025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate Full Stack MERN (MongoDB, Express.js, React.js, Node.js) developer with a strong desire to create amazing web applications. With a solid foundation in both front-end and back-end development, I strive to deliver robust, scalable, and user-friendly solutions.
+
+🔧 Technical Skills
+Front-end:
+
+HTML5, CSS3, JavaScript (ES6+)
+React.js, Redux, React Router
+Bootstrap, Material-UI
+Responsive web design, cross-browser compatibility
+Back-end:
+
+Node.js, Express.js
+MongoDB, Mongoose
+RESTful APIs
+Authentication and authorization (JWT, OAuth)
+
+Tools and DevOps:
+
+Git, GitHub, Bitbucket
+NPM, Yarn
+Webpack, Babel
+
