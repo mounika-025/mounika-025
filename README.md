@@ -16,9 +16,9 @@ MongoDB, Mongoose
 RESTful APIs
 Authentication and authorization (JWT, OAuth)
 
-Tools and DevOps:
+Tools:
 
-Git, GitHub, Bitbucket
+Git, GitHub
 NPM, Yarn
 Webpack, Babel
 
