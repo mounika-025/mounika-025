@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Stack-Over-Flow clone**
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **react js ,Javascript,Node js, css, html**
 
 - 📫 How to reach me **im.mounika025@gmail.com**
 
