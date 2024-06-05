@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
-- 🔭 I’m currently working on **Stack-Over-Flow clone**
+- 🔭 I’m currently working on **Netflix-GPT**
 
 - 💬 Ask me about **react js ,Javascript,Node js, css, html**
 
 - 📫 How to reach me **im.mounika025@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/mounika-gurram-2916ab245</h3>
 <p align="left">
 </p>
 
